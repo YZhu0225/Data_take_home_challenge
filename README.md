@@ -10,3 +10,4 @@ Some of the approaches were inspired by [JifuZhao](https://github.com/JifuZhao/D
 3. [Employee_Retention](https://github.com/YZhu0225/Data_take_home_challenge/blob/main/03_Employee_Retention.ipynb)
 4. /
 5. [Funnel_Analysis](https://github.com/YZhu0225/Data_take_home_challenge/blob/main/05_Funnel_Analysis.ipynb)
+6. [Pricing Test](https://github.com/YZhu0225/Data_take_home_challenge/blob/main/06_Pricing_Test.ipynb)
